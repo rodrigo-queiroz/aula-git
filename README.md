@@ -1,6 +1,7 @@
-# GIT e GITHUB
+# GIT
 
 Guia prático para iniciantes.
+Aula ministrada pelo Mayk Brito: https://www.youtube.com/watch?v=2alg7MQ6_sI&t=136s
 
 ### Instalação
 
@@ -15,7 +16,7 @@ https://git-scm.com/download
 - [ x ] Você adciona as novas funcionalidade ao seu projeto em produção.
 - [ x ] Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.
 
-- [   ] Você quer colocar seu projeto na nuvem.
+- [ x ] Você quer colocar seu projeto na nuvem.
 
 - `git init`   // inicia a linha do tempo
 - `git add`    // adciona ou atualiza mudanças para irem a linha do tempo
