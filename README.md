@@ -1,3 +1,5 @@
+![Screenshot](banner-git-github.jpg)
+
 # GIT BÁSICO
 
 Guia prático para iniciantes.
