@@ -39,7 +39,7 @@ https://git-scm.com/download
 * `git branch`                                       // gerenciar novas linhas do tempo.
 * `git checkout`                                     // manipula novas linhas do tempo.
 * `git checkout -b`                                  // manipula novas linhas do tempo adcionando uma nova branch(-b) + o nome do seu projeto.
-* `git checkout "insira o log -- "insira o arquivo"` // recupera as alterações feitas na linha do tempo.
+* `git checkout "insira o log" -- "insira o arquivo"` // recupera as alterações feitas na linha do tempo.
 * `git merge`                                        // Unir linhas do tempo.
 * `git push`                                         // envia alterações locais para o repositório remoto.
 * `git clone`                                        // Clonar um projeto / repositório.
